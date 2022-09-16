@@ -30,6 +30,11 @@
      text-align: center; 
      margin-top: -7em!important;
 }
+.list-group {
+    --bs-list-group-color: #fff!important;
+    --bs-list-group-bg: !important;
+    --bs-list-group-border-color: none!important;
+}
 .padd20 {
     padding: 20px;
     
